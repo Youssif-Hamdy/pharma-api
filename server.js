@@ -2,8 +2,24 @@ const express = require('express');
 const mongoose = require('mongoose');
 require('dotenv').config();
 
+const swaggerUi = require('swagger-ui-express');
+const swaggerJsdoc = require('swagger-jsdoc');
+
 const app = express();
 app.use(express.json());
+
+const swaggerOptions = {
+  definition: {
+    openapi: '3.0.0',
+    info: {
+      title: 'Pharma API',
+      version: '1.0.0',
+    },
+servers: [{ url: 'https://pharma-api-flame.vercel.app' }],  },
+  apis: ['./routes/*.js'],
+};
+const specs = swaggerJsdoc(swaggerOptions);
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
 
 const productRoutes = require('./routes/products');
 const categoryRoutes = require('./routes/categories');
