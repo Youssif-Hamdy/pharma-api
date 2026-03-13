@@ -15,11 +15,20 @@ const swaggerOptions = {
       title: 'Pharma API',
       version: '1.0.0',
     },
-servers: [{ url: 'https://pharma-api-flame.vercel.app' }],  },
+    servers: [{ url: 'https://pharma-api-flame.vercel.app' }],
+  },
   apis: ['./routes/*.js'],
 };
+
 const specs = swaggerJsdoc(swaggerOptions);
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
+
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs, {
+  customCssUrl: 'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.11.0/swagger-ui.min.css',
+  customJs: [
+    'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.11.0/swagger-ui-bundle.min.js',
+    'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.11.0/swagger-ui-standalone-preset.min.js',
+  ],
+}));
 
 const productRoutes = require('./routes/products');
 const categoryRoutes = require('./routes/categories');
