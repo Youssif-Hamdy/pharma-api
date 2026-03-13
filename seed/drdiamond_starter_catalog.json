@@ -1,0 +1,1106 @@
+{
+  "README": [
+    {
+      "Dr Diamond starter catalog workbook": "Prepared for",
+      "Unnamed: 1": "Database seeding / Excel import"
+    },
+    {
+      "Dr Diamond starter catalog workbook": "Website reference",
+      "Unnamed: 1": "https://drdiamond.store/"
+    },
+    {
+      "Dr Diamond starter catalog workbook": "Extraction status",
+      "Unnamed: 1": "Best-effort starter catalog"
+    },
+    {
+      "Dr Diamond starter catalog workbook": "Important note",
+      "Unnamed: 1": "Direct page/API crawling was blocked during this session, so this workbook was assembled from accessible homepage HTML plus search-indexed store/product snippets."
+    },
+    {
+      "Dr Diamond starter catalog workbook": "What is inside",
+      "Unnamed: 1": "Products discovered, category list, brand list, and source notes."
+    },
+    {
+      "Dr Diamond starter catalog workbook": "Recommended next step",
+      "Unnamed: 1": "Use this workbook to start your database, then validate prices/stock manually or with a supplier export before go-live."
+    },
+    {
+      "Dr Diamond starter catalog workbook": "Products captured",
+      "Unnamed: 1": 53
+    },
+    {
+      "Dr Diamond starter catalog workbook": "Products with confirmed observed price",
+      "Unnamed: 1": 23
+    },
+    {
+      "Dr Diamond starter catalog workbook": "Products with missing or ambiguous price",
+      "Unnamed: 1": 30
+    }
+  ],
+  "Products": [
+    {
+      "Product Name": "برفكتيل بلس هير المستورد Perfectil Hair Plus عدد 60 قرص",
+      "Category": "فيتامينات الشعر",
+      "Brand": "Perfectil",
+      "Price EGP": 1430.0,
+      "Product URL": "https://drdiamond.store/product/perfectil-hair-plus/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "سكر ميفوليس الالماني Mivolis Substoff عدد 1200 حبة سكر دايت",
+      "Category": "التخسيس والنحافة",
+      "Brand": "Mivolis",
+      "Price EGP": 260.0,
+      "Product URL": "https://drdiamond.store/product/mivolis-substoff/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب فيتامين د3 Puritan's Pride تركيز 10000 وحدة عدد 100 سوفت جيل",
+      "Category": "فيتامين د",
+      "Brand": "Puritan's Pride",
+      "Price EGP": 825.0,
+      "Product URL": "https://drdiamond.store/product/puritans-pride-vitamin-d3/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "كبسولات فيروجلوبين Feroglobin B12 عدد 30 كبسولة",
+      "Category": "فيتامينات الحمل والرضاعة",
+      "Brand": "Vitabiotics",
+      "Price EGP": 500.0,
+      "Product URL": "https://drdiamond.store/product/feroglobin-b12/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "اوستيوكير اقراص Osteocare Tablets عدد 30 قرص",
+      "Category": "فيتامينات الحمل والرضاعة",
+      "Brand": "Vitabiotics",
+      "Price EGP": 450.0,
+      "Product URL": "https://drdiamond.store/product/osteocare-tablets/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "كبسولات كوركومين Puritan's Pride Turmeric Curcumin 1000 mg عدد 60 كبسولة",
+      "Category": "أعشاب ونباتات",
+      "Brand": "Puritan's Pride",
+      "Price EGP": 1260.0,
+      "Product URL": "https://drdiamond.store/product/puritans-pride-turmeric-curcumin/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حقن ستيروجيل الفرنسية Sterogyl 15 H / حقن فيتامين د تركيز 600 الف وحدة / 1.5 مل",
+      "Category": "دعم العظام",
+      "Brand": "علامات تجارية متنوعة",
+      "Price EGP": 260.0,
+      "Product URL": "https://drdiamond.store/product/sterogyl-15-h/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "سولبادين فوار Solpadeine soluble عدد 20 قرص فوار",
+      "Category": "حبوب مسكنة",
+      "Brand": "Solpadeine",
+      "Price EGP": 850.0,
+      "Product URL": "https://drdiamond.store/product/solpadeine-soluble/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "بنادول كولد اند فلو الأخضر Panadol Cold & Flu عدد 24 قرص",
+      "Category": "حبوب مسكنة",
+      "Brand": "Panadol",
+      "Price EGP": 370.0,
+      "Product URL": "https://drdiamond.store/product/panadol-cold-flu/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "بيرفكتيل ماكس Perfectil Max عدد 84 قرص",
+      "Category": "فيتامينات الشعر",
+      "Brand": "Perfectil",
+      "Price EGP": 1880.0,
+      "Product URL": "https://drdiamond.store/product/perfectil-max/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "سولبادين كبسولات Solpadeine عدد 20 كبسولة",
+      "Category": "حبوب مسكنة",
+      "Brand": "Solpadeine",
+      "Price EGP": 850.0,
+      "Product URL": "https://drdiamond.store/product/solpadeine-capsules/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "بنادول بريود Panadol Period لآلام الدورة الشهرية عدد 14 قرص",
+      "Category": "حبوب مسكنة",
+      "Brand": "Panadol",
+      "Price EGP": 550.0,
+      "Product URL": "https://drdiamond.store/product/panadol-period/",
+      "Source URL": "https://drdiamond.store/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب ارجنين فورس فاكتور Force Factor L Arginine عدد 150 كبسولة / تركيز 3000",
+      "Category": "مكملات الرياضيين",
+      "Brand": "Force Factor",
+      "Price EGP": 1850.0,
+      "Product URL": "https://drdiamond.store/product/force-factor-l-arginine/",
+      "Source URL": "https://drdiamond.store/product-category/فيتامينات-متخصصة/الرياضيين/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "علكة دونتودنت Donto Dent Gum بنكهات متعددة",
+      "Category": "العناية بالفم",
+      "Brand": "Dm",
+      "Price EGP": 400.0,
+      "Product URL": "https://drdiamond.store/product/dontodent-gum/",
+      "Source URL": "https://drdiamond.store/attr/brand/dm/",
+      "Price Status": "confirmed",
+      "Notes": "خيارات متعددة"
+    },
+    {
+      "Product Name": "Tetesept Magnesium 600 Triple Action",
+      "Category": "معادن",
+      "Brand": "Tetesept",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/tetesept-magnesium-2/",
+      "Source URL": "https://drdiamond.store/product/tetesept-magnesium-2/",
+      "Price Status": "missing",
+      "Notes": "السعر غير ظاهر في المقتطف"
+    },
+    {
+      "Product Name": "ميفوليس ميلاتونين انتنس Mivolis Melatonin Intense عدد 30 كبسولة",
+      "Category": "مهدئات ومساعدات النوم",
+      "Brand": "Mivolis",
+      "Price EGP": 575.0,
+      "Product URL": "https://drdiamond.store/product/mivolis-melatonin-intense/",
+      "Source URL": "https://drdiamond.store/product-category/مكملات-غذائية/مهدئات-ومساعدات-النوم/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب سولاري فوليك اسيد Solaray Folic Acid تركيز 800 مكجم / 100 كبسولة",
+      "Category": "فيتامينات الحمل والرضاعة",
+      "Brand": "Solaray",
+      "Price EGP": 880.0,
+      "Product URL": "https://drdiamond.store/product/solaray-folic-acid-800-mcg/",
+      "Source URL": "https://drdiamond.store/product-category/فيتامينات-الحمل/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "ليبو 6 بلاك الترا للسيدات Lipo 6 Black Hers Ultra عدد 60 كبسولة",
+      "Category": "التخسيس والنحافة",
+      "Brand": "Lipo 6",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/lipo-6-black-hers-ultra/",
+      "Source URL": "https://drdiamond.store/shop/page/7/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب ليبو 6 بلاك للرجال Lipo Six Black Ultra Concentrate عدد 60 كبسولة",
+      "Category": "التخسيس والنحافة",
+      "Brand": "Lipo 6",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/lipo-6-black-ultra-concentrate/",
+      "Source URL": "https://drdiamond.store/shop/page/7/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "لـ - ليسين Solaray L-Lysine تركيز 500 مجم / 120 كبسولة",
+      "Category": "أحماض أمينية",
+      "Brand": "Solaray",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/l-lysine/",
+      "Source URL": "https://drdiamond.store/shop/page/8/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب NAC ناو Now NAC تركيز 1000 مجم / 120 قرص",
+      "Category": "مكملات غذائية",
+      "Brand": "Now Foods",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/now-nac-1000-mg/",
+      "Source URL": "https://drdiamond.store/shop/page/10/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "كريم بريلا Prila Cream تركيز 5% عدد أنبوبة واحدة",
+      "Category": "مستلزمات طبية",
+      "Brand": "Prila",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/prila-cream/",
+      "Source URL": "https://drdiamond.store/shop/page/10/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حمض الهيالورونيك حبوب Tetesept Hyaluron 100 Complex عدد 30 قرص",
+      "Category": "العناية بالبشرة",
+      "Brand": "Tetesept",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/tetesept-hyaluron-100-complex/",
+      "Source URL": "https://drdiamond.store/shop/page/11/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "ناو الفا ليبويك اسيد Now Alpha Lipoic Acid تركيز 600 مجم / 60 كبسولة",
+      "Category": "مكملات غذائية",
+      "Brand": "Now Foods",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/now-alpha-lipoic-acid-600-mg/",
+      "Source URL": "https://drdiamond.store/shop/page/11/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب الحديد Puritan's Pride Easy Iron عدد 90 كبسولة",
+      "Category": "حديد",
+      "Brand": "Puritan's Pride",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/easy-iron/",
+      "Source URL": "https://drdiamond.store/shop/page/8/?product-page=17&products-per-page=12",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب الكارنتين L-Carnitine Puritan's Pride تركيز 500 مجم / 60 قرص",
+      "Category": "مكملات الرياضيين",
+      "Brand": "Puritan's Pride",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/l-carnitine-puritans-pride/",
+      "Source URL": "https://drdiamond.store/shop/page/8/?product-page=17&products-per-page=12",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب الماكا Puritan's Pride Maca تركيز 1000 / عدد 60 كبسولة",
+      "Category": "صحة جنسية وخصوبة",
+      "Brand": "Puritan's Pride",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/puritans-pride-maca/",
+      "Source URL": "https://drdiamond.store/shop/page/15/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "كبسولات جلوتاثيون ناو Now Glutathione تركيز 500 مجم عدد 30 كبسولة",
+      "Category": "العناية بالبشرة",
+      "Brand": "Now Foods",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/now-glutathione-500-mg/",
+      "Source URL": "https://drdiamond.store/shop/page/15/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "بنادول للأطفال Panadol Baby & Infant حجم 100 مل",
+      "Category": "حبوب مسكنة",
+      "Brand": "Panadol",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/panadol-baby-infant/",
+      "Source URL": "https://drdiamond.store/shop/page/15/?gridcookie=list&product-page=8",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "كبسولات فيتامين أ و د Now Foods Vitamin A & D عدد 100 كبسولة",
+      "Category": "فيتامينات عامة",
+      "Brand": "Now Foods",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/now-vitamin-a-d/",
+      "Source URL": "https://drdiamond.store/shop/page/15/?gridcookie=list&product-page=8",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "لوشن سورسير لانبات الشعر Sorciere Hair Grower Hair Lotion 160ml",
+      "Category": "مستحضرات الشعر",
+      "Brand": "Sorciere",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/sorciere-hair-grower-hair-lotion/",
+      "Source URL": "https://drdiamond.store/shop/page/18/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "كبسولات فيتامين K2 MK7 Supplement عدد 60 كبسولة",
+      "Category": "فيتامين ك",
+      "Brand": "Unknown",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/vitamin-k2-mk7-supplement/",
+      "Source URL": "https://drdiamond.store/shop/page/20/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب ويل وومان Wellwoman 70+ عدد 30 قرص",
+      "Category": "فيتامينات للمرأة",
+      "Brand": "Vitabiotics",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/wellwoman-70/",
+      "Source URL": "https://drdiamond.store/shop/page/20/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "فيتامين C المركب Now C Complex Tablets عدد 180 قرص",
+      "Category": "فيتامين سي",
+      "Brand": "Now Foods",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/now-c-complex-tablets/",
+      "Source URL": "https://drdiamond.store/shop/page/20/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "كريم سودو Sudocrem Healing Cream حجم 60 جم",
+      "Category": "العناية بالبشرة",
+      "Brand": "Sudocrem",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/sudocrem-healing-cream-60g/",
+      "Source URL": "https://drdiamond.store/shop/page/22/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب فيتامين أ Vitamin A tablets تركيز 10000 وحدة - 100 قرص",
+      "Category": "فيتامين أ",
+      "Brand": "Unknown",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/vitamin-a-tablets-10000/",
+      "Source URL": "https://drdiamond.store/shop/page/22/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب فيتامين ب6 Now B6 عدد 250 كبسولة",
+      "Category": "فيتامين ب",
+      "Brand": "Now Foods",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/now-b6/",
+      "Source URL": "https://drdiamond.store/shop/page/22/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "برفكتيل سكن Perfectil Plus Skin عدد 56 قرص",
+      "Category": "فيتامينات البشرة",
+      "Brand": "Perfectil",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/perfectil-plus-skin/",
+      "Source URL": "https://drdiamond.store/shop/page/26/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "مالتي فيتامين اوبتي للرجال Opti-Men Multivitamin عدد 150 قرص",
+      "Category": "فيتامينات للرجال",
+      "Brand": "Optimum Nutrition",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/opti-men-multivitamin-150/",
+      "Source URL": "https://drdiamond.store/shop/page/26/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "حبوب ناتشورال كيرفز Natural Curves عدد 60 قرص",
+      "Category": "فيتامينات للمرأة",
+      "Brand": "Natural Curves",
+      "Price EGP": 2950.0,
+      "Product URL": "https://drdiamond.store/product/natural-curves-60-tablets-ناتورال-كيرفز/",
+      "Source URL": "https://drdiamond.store/shop/page/27/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "فيتامين وان اداي للرجال One A Day Men عدد 100 قرص",
+      "Category": "فيتامينات للرجال",
+      "Brand": "One A Day",
+      "Price EGP": 1850.0,
+      "Product URL": "https://drdiamond.store/product/one-a-day-men-100-tablets/",
+      "Source URL": "https://drdiamond.store/product/one-a-day-mens-complete-multivitamin-tablets/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "ناترول بيوتين Natrol Biotin تركيز 10000 / 100 قرص",
+      "Category": "فيتامينات الشعر",
+      "Brand": "Natrol",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/biotin-10000-mcg/",
+      "Source URL": "https://drdiamond.store/attr/brand/natrol/",
+      "Price Status": "ambiguous",
+      "Notes": "ظهر بسعرين مختلفين في المقتطفات: 1100 و 1750 جنيه"
+    },
+    {
+      "Product Name": "موف فري ادفانسد Move Free Advanced عدد 120 قرص",
+      "Category": "دعم المفاصل",
+      "Brand": "Schiff",
+      "Price EGP": 2850.0,
+      "Product URL": "https://drdiamond.store/product/move-free-advanced-120-tablet/",
+      "Source URL": "https://drdiamond.store/product-category/مكملات-غذائية/المفاصل/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "اقراص فيتامين سي ناتشرز تروث مع الروز هيب Nature's Truth Vitamin C تركيز 1000 مجم عدد 60 قرص مضغ",
+      "Category": "فيتامين سي",
+      "Brand": "Nature's Truth",
+      "Price EGP": 1100.0,
+      "Product URL": "https://drdiamond.store/product/chewable-vitamin-c-1000mg/",
+      "Source URL": "https://drdiamond.store/product-category/فيتامينات/فيتامين-سي/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "الدواء بنادول نايت Panadol Night Tablets عدد 20 قرص",
+      "Category": "حبوب مسكنة",
+      "Brand": "Panadol",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/panadol-night-tablets/",
+      "Source URL": "https://drdiamond.store/shop/page/23/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "بنادول اكسترا Panadol Extra عدد 24 قرص",
+      "Category": "حبوب مسكنة",
+      "Brand": "Panadol",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/panadol-extra/",
+      "Source URL": "https://drdiamond.store/shop/page/23/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "Vitamin D3 5000 Now Foods عدد 120 كبسولة هلامية",
+      "Category": "فيتامين د",
+      "Brand": "Now Foods",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/vitamin-d3-5000-now-foods/",
+      "Source URL": "https://drdiamond.store/shop/page/14/?gridcookie=list&product-page=19&products-per-page=24",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "Cysteine B6 + Zinc",
+      "Category": "زنك",
+      "Brand": "Unknown",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/cysteine-b6-zinc/",
+      "Source URL": "https://drdiamond.store/shop/page/4/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "Mivolis Multi Mineral",
+      "Category": "معادن",
+      "Brand": "Mivolis",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/mivolis-multi-mineral/",
+      "Source URL": "https://drdiamond.store/shop/page/12/?gridcookie=list&product-page=17&products-per-page=12",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "Opti-Women 120 capsules",
+      "Category": "فيتامينات للمرأة",
+      "Brand": "Optimum Nutrition",
+      "Price EGP": 2950.0,
+      "Product URL": "https://drdiamond.store/product/opti-women-120-capsules/",
+      "Source URL": "https://drdiamond.store/category/personal-care/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "Menopace Original عدد 30 قرص",
+      "Category": "فيتامينات للمرأة",
+      "Brand": "Vitabiotics",
+      "Price EGP": 1100.0,
+      "Product URL": "https://drdiamond.store/product/menopace-original/",
+      "Source URL": "https://drdiamond.store/category/personal-care/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "Vitamin C Mivolis Plus",
+      "Category": "فيتامين سي",
+      "Brand": "Mivolis",
+      "Price EGP": NaN,
+      "Product URL": "https://drdiamond.store/product/vitamin-c-mivolis-plus/",
+      "Source URL": "https://drdiamond.store/shop/page/25/",
+      "Price Status": "missing",
+      "Notes": NaN
+    },
+    {
+      "Product Name": "Tetesept Magnesium 500 Nacht",
+      "Category": "مغنيسيوم",
+      "Brand": "Tetesept",
+      "Price EGP": 275.0,
+      "Product URL": "https://drdiamond.store/product/tetesept-magnesium-500-nacht/",
+      "Source URL": "https://drdiamond.store/attr/brand/tetesept/",
+      "Price Status": "confirmed",
+      "Notes": NaN
+    }
+  ],
+  "Categories": [
+    {
+      "Category Name": "صحة جنسية وخصوبة",
+      "Observed Count A": 49.0,
+      "Observed Count B": NaN,
+      "Notes": "homepage observed count",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "التخسيس والنحافة",
+      "Observed Count A": 41.0,
+      "Observed Count B": 42.0,
+      "Notes": "observed 41 in homepage HTML and 42 in search snippet",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مشروبات صحية",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات عامة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامين أ",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامين ب",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامين سي",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامين هـ",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامين د",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامين ك",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "لوتين",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "العناية بالطفل",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "تأخر الكلام ونقص الانتباه",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "العناية بالشعر",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مستحضرات الشعر",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات الشعر",
+      "Observed Count A": 22.0,
+      "Observed Count B": NaN,
+      "Notes": "homepage observed count",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "العناية بالبشرة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات البشرة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات الحمل والرضاعة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مستلزمات طبية",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مجموعة الأوميجا (Omega)",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "منتجات الإقلاع عن التدخين",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مسكنات",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مسكنات موضعية",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "حبوب مسكنة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "العناية بالفم",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مكملات غذائية",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مهدئات ومساعدات النوم",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "منتجات دعم المناعة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "دعم الجهاز الهضمي",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "صحة الأعصاب",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "صحة العين",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "دعم العظام",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "دعم المفاصل",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "أحماض أمينية",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "تنشيط المخ والذاكرة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "أعشاب ونباتات",
+      "Observed Count A": 39.0,
+      "Observed Count B": NaN,
+      "Notes": "homepage observed count",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مكملات الكولاجين",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات متخصصة",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات للمرأة",
+      "Observed Count A": 10.0,
+      "Observed Count B": 11.0,
+      "Notes": "observed 10 in homepage HTML and 11 in search snippet",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات للرجال",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "فيتامينات لكبار السن",
+      "Observed Count A": 10.0,
+      "Observed Count B": 11.0,
+      "Notes": "observed 10 in homepage HTML and 11 in search snippet",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مكملات الرياضيين",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "معادن",
+      "Observed Count A": 49.0,
+      "Observed Count B": 57.0,
+      "Notes": "observed 49 in homepage HTML and 57 in search snippet",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "بوتاسيوم",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "حديد",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "كالسيوم",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مغنيسيوم",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "زنك",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "سيلينيوم",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "مكملات الطحالب",
+      "Observed Count A": 8.0,
+      "Observed Count B": NaN,
+      "Notes": "homepage observed count",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Category Name": "عروض و خصومات المكملات الغذائية",
+      "Observed Count A": NaN,
+      "Observed Count B": NaN,
+      "Notes": NaN,
+      "Source URL": "https://drdiamond.store/"
+    }
+  ],
+  "Brands": [
+    {
+      "Brand Name": "Advil",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "AMS",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Applied Nutrition",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Bayer",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "California Gold Nutrition",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Centrum",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Coast Science",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Doctor’s Best",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Efamol",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Evlution Nutrition",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Jarrow Formulas",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Lifetrients",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Natrol",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Nature Made",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Nature’s Truth",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Nature’s Bounty",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Neocell",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Nicorette",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Now Foods",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Optimum Nutrition",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Oz Naturals",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Panadol",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Puritan’s Pride",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Perfectil",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Pregnacare",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Purely Inspired",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Rogaine",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Schiff",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Seven Seas",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Solaray",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Solpadeine",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Sudocrem",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Sugar Bear",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Vicks",
+      "Source URL": "https://drdiamond.store/"
+    },
+    {
+      "Brand Name": "Vitacare",
+      "Source URL": "https://drdiamond.store/"
+    }
+  ],
+  "Source Notes": [
+    {
+      "Topic": "Homepage / menu / featured products",
+      "Note": "Accessible HTML lines captured from the site homepage included category menu, brand menu, and 12 featured products with prices."
+    },
+    {
+      "Topic": "Shop & product direct fetch status",
+      "Note": "Direct fetches to /shop/ and the WooCommerce store API returned HTTP 403 during this session, so a full direct crawl could not be completed from this environment."
+    },
+    {
+      "Topic": "Search-indexed snippets",
+      "Note": "Additional product rows were assembled from search engine snippets that exposed store pages, category pages, brand pages, and some product pages."
+    },
+    {
+      "Topic": "How to use this workbook",
+      "Note": "Use Products as seed data for your DB import. Validate price, stock, dosage, and images before final launch."
+    },
+    {
+      "Topic": "Handling blank price",
+      "Note": "Blank price means the product name was discoverable but the price was not reliably visible in the accessible snippet."
+    },
+    {
+      "Topic": "Handling ambiguous price",
+      "Note": "Ambiguous means conflicting snippet prices were seen for the same product; verify manually before import."
+    }
+  ]
+}
