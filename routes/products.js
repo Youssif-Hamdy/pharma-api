@@ -68,14 +68,19 @@ router.get('/', async (req, res) => {
  *       500:
  *         description: خطأ في السيرفر
  */
-router.get('/:id', async (req, res) => {
+router.get('/', async (req, res) => {
   try {
-    const product = await Product.findById(req.params.id);
+    const { category, brand } = req.query;
+    let filter = {};
 
-    if (!product) 
-      return res.status(404).json({ message: 'Product not found' });
+    if (category) filter.category = category;
+    if (brand) filter.brand = brand;
 
-    res.json(product);
+    const products = await Product.find(filter)
+      .populate('category', 'name')
+      .populate('brand', 'name');
+      
+    res.json(products);
   } catch (err) {
     res.status(500).json({ message: err.message });
   }
