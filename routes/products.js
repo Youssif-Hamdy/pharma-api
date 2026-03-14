@@ -73,13 +73,10 @@ router.get('/', async (req, res) => {
     const { category, brand } = req.query;
     let filter = {};
 
-    if (category) filter.category = category;
-    if (brand) filter.brand = brand;
+    if (category) filter.category = { $regex: category, $options: 'i' }
+    if (brand) filter.brand = { $regex: brand, $options: 'i' }
 
-    const products = await Product.find(filter)
-      .populate('category', 'name')
-      .populate('brand', 'name');
-      
+    const products = await Product.find(filter);
     res.json(products);
   } catch (err) {
     res.status(500).json({ message: err.message });
